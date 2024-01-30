@@ -30,5 +30,8 @@ https://gelisimduygusu.github.io/Code-Quiz-Project/
 
 <img width="1006" alt="Screenshot 2024-01-30 at 22 56 41" src="https://github.com/gelisimduygusu/Code-Quiz-Project/assets/151784243/a2cd8f19-282f-4ee1-9157-ae41378d4237">
 
+<img width="999" alt="Screenshot 2024-01-30 at 22 58 02" src="https://github.com/gelisimduygusu/Code-Quiz-Project/assets/151784243/5d40cb31-b57b-4a56-9b14-4a249f307508">
+
+
 
 
